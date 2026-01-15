@@ -7,13 +7,13 @@ Full-Stack & Engineer
 
 <p align="left">
  <a href="https://www.linkedin.com/in/akhmadikbalkhoir" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-wahyupratamaa-0A66C2?logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-akhmadikbalkhoir?logo=linkedin&logoColor=white" />
 </a>
   <a href="https://github.com/ikballbae" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@whatyuupratama-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@ahmdikball?logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ahmdikball" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@alvprma.2cn-E4405F?logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@ahmdikball?logo=instagram&logoColor=white" />
   </a>
 </p>
 
