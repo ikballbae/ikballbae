@@ -10,7 +10,7 @@ Full-Stack & Engineer
   <img src="https://img.shields.io/badge/LinkedIn-akhmadikbalkhoir?logo=linkedin&logoColor=white" />
 </a>
   <a href="https://github.com/ikballbae" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@ahmdikball?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-@ikballbae?logo=github&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ahmdikball" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@ahmdikball?logo=instagram&logoColor=white" />
